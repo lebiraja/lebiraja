@@ -6,9 +6,7 @@
                       Instagram : @lebiraja
                       Snapchat : @lebi_raja
                       X (formerly Twitter) : @lebiraja
-                      Gmail : lebiraja@karunya.edu.in
-                      Phone : +91 8489195917
-                      WhatsApp : +91 8489195917
+                      Gmail : lebiraja2007@gmail.com
 😄 Pronouns: He/Him
 ⚡ Fun fact: I’m a huge anime fan, especially One Piece and My Hero Academia, and I love going on solo trips and exploring new places!
 
