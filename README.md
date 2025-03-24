@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lebiraja
 - 👀 I’m interested in AI, Data Science, coding, and innovative projects like emotion-responsive tech and AI-driven solutions.
-- 🌱 I’m currently learning AI & Data Science at Karunya University and exploring embedded systems and coding for Arduino.
+- 🌱 I’m currently learning AI & Data Science at Karunya University and exploring embedded systems and coding.
 - 💞️ I’m looking to collaborate on AI-based projects, coding challenges, and any creative tech innovations.
 - 📫 How to reach me:
                       Instagram : @lebiraja
