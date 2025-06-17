@@ -1,16 +1,20 @@
-- 👋 Hi, I’m @lebiraja
-- 👀 I’m interested in AI, Data Science, coding, and innovative projects like emotion-responsive tech and AI-driven solutions.
-- 🌱 I’m currently learning AI & Data Science at Karunya University and exploring embedded systems and coding.
-- 💞️ I’m looking to collaborate on AI-based projects, coding challenges, and any creative tech innovations.
-- 📫 How to reach me:
-                      Instagram : @lebiraja
-                      Snapchat : @lebi_raja
-                      X (formerly Twitter) : @lebiraja
-                      Gmail : lebiraja2007@gmail.com
-😄 Pronouns: He/Him
-⚡ Fun fact: I’m a huge anime fan, especially One Piece and My Hero Academia, and I love going on solo trips and exploring new places!
+# 👋 Hi there, I’m Lebi Raja! 
 
-<!---
-lebiraja/lebiraja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 I'm currently pursuing **B.Tech in Artificial Intelligence and Data Science** at **Karunya University**.
+- 👀 Passionate about **AI, Data Science, LLMs, and computer vision**. I also love diving into **creative tech innovations** like AI-powered agents, emotion-responsive systems, and smart automation.
+- 💻 I’m actively building projects with **LLMs (like Ollama), Streamlit apps**, and integrating **AI with system control** and **real-time data analysis**.
+- 🌱 Currently learning more about **Operating Systems, Data Structures & Algorithms, Object-Oriented Programming**, and deploying scalable solutions using **Docker & Kubernetes**.
+- 🤝 I’m open to **collaborations** on AI tools, automation agents, coding challenges, and experimental tech ideas.
+- 🧠 Future Vision: I aim to build intelligent agents that can seamlessly interact with local systems, automate workflows, and even analyze and edit files — blending **LLM intelligence with OS-level control**.
+- 📫 Connect with me:
+  - 📸 [Instagram](https://instagram.com/lebiraja) : `@lebiraja`
+  - 👻 Snapchat : `@lebi_raja`
+  - 🐦 [X (Twitter)](https://x.com/lebiraja) : `@lebiraja`
+  - 💼 [LinkedIn](https://www.linkedin.com/in/lebi-raja-c-480b02322/) : `lebi-raja-c`
+  - 📧 Gmail : `lebiraja2007@gmail.com`
+
+- 😄 Pronouns: He/Him   
+- 🛠️ Motto: *“Build to express, create to solve.”*
+
+---
+
