@@ -1,81 +1,86 @@
+<h1 align="center">Hi there, I'm Lebi Raja 👋</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=AI+Engineer+%7C+Tech+Creator+%7C+LLM+Explorer;Gesture+Control+%7C+Data+Science+%7C+Dev+with+a+Vision" />
+</p>
 
----
-
-# 👋 Hi, I’m Lebi Raja!
-
-🎓 **B.Tech in Artificial Intelligence and Data Science @ Karunya University**
-📍 Based in Tamil Nadu, India | 🌱 Lifelong Learner | 💡 Curious Creator
-
----
-
-### 💡 About Me
-
-I’m a passionate AI and data science enthusiast blending system-level control with cutting-edge LLMs to create intelligent, human-aware tech. Whether it’s **gesture-based automation**, **Streamlit-powered data tools**, or **LLM-enhanced agents**, I thrive on building innovations that make tech feel intuitive and smart.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lebiraja&style=flat-square&color=brightgreen" alt="lebiraja" />
+  <a href="https://leetcode.com/u/6hT5EEP40r/"><img src="https://img.shields.io/badge/LeetCode-Lebi%20Raja-orange?style=flat-square&logo=leetcode" /></a>
+  <img src="https://img.shields.io/github/followers/lebiraja?style=flat-square&label=GitHub&logo=github" />
+</p>
 
 ---
 
-### 🧠 What I’m Up To
+## 👨‍🎓 About Me
 
-* 🌟 **AI + OS-Level Control**: Building a **hand gesture control system** using MediaPipe, OpenCV, and PyAutoGUI. It includes **gesture profiles**, **posture-aware actions**, and even **voice-assisted gesture fusion**.
-* 🤖 **LLM Projects**:
-
-  * **Data-Boy**: A Telegram bot that cleans datasets with a locally run LLM and returns insightful summaries.
-  * **data\_bot**: Integrates Streamlit and Ollama to analyze, clean, and validate CSVs with contextual feedback.
-* 📊 **Data Visualization & Apps**: Streamlit dashboards, emotion detection tools, and dynamic AI interfaces.
-* 📦 **Containerization**: Hands-on with **Docker & Kubernetes** for scalable deployment.
-* 🎮 **Experimental AI Agents**: Exploring automation tools via Make.com and AI agents that handle email, calendar, and workflow summaries.
+🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science** at **Karunya University**  
+💡 Passionate about blending **AI with system-level automation**, **LLMs**, and **creative data tools**  
+🔧 I enjoy building smart tools with **gesture control**, **streamlit dashboards**, and **automation bots**  
+🧠 Exploring **LLMs + OS integration**, **DevOps tools**, and **real-world problem solving** through AI  
 
 ---
 
-### 🧩 LeetCode & Problem Solving
+## 🔥 What I'm Working On
 
-🔗 [LeetCode Profile](https://leetcode.com/u/6hT5EEP40r/)
-I actively practice DSA to sharpen my problem-solving mindset and build performance-aware systems. I believe that elegant logic is the heart of powerful AI.
-
----
-
-### 🚀 Skills & Tech Stack
-
-* **Languages**: Python, C++, Java, HTML/CSS, JavaScript
-* **Frameworks & Tools**:
-
-  * AI & ML: `MediaPipe`, `scikit-learn`, `PyTorch`, `transformers`, `LangChain`
-  * Frontend: `Streamlit`, `Tkinter`, `Gradio`
-  * Backend: `Flask`, `FastAPI`
-  * Automation: `Make.com`, `Telegram Bots`, `PyAutoGUI`
-  * DevOps: `Docker`, `Kubernetes`, `GitHub Actions`
-* **Databases**: MySQL, SQLite, CSV, JSON-based data stores
+- 🤖 **Hand Gesture Control System** using MediaPipe + PyAutoGUI  
+- 📦 **LLM-based Telegram Bots** (`Data-Boy`, `data_bot`) for CSV cleaning & analysis  
+- 📊 Real-time dashboards with **Streamlit**, **LangChain**, and **Ollama**  
+- ⚙️ **Docker + Kubernetes** for scalable AI app deployment  
+- 🧩 **LLM automation agents** (email, calendar, file interaction) using Make.com  
 
 ---
 
-### 🤝 Let’s Collaborate
+## 🧠 Competitive Programming
 
-I love working on:
-
-* 💡 Intelligent agents that enhance productivity
-* 📊 Data-centric AI tools
-* 🧠 ML models with real-world impact
-* 👾 Automation and smart tech solutions
+- 🔗 [LeetCode Profile →](https://leetcode.com/u/6hT5EEP40r/)
+- 💪 Actively solving **DSA challenges** to improve logic and performance optimization
+- 🧑‍💻 Focused on building a strong foundation in **Data Structures, Algorithms, and Problem Solving**
 
 ---
 
-### 📬 Reach Me
+## 💻 Tech Stack
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/lebi-raja-c-480b02322/) | 🐦 [X](https://x.com/lebiraja) | 📸 [Instagram](https://instagram.com/lebiraja)
-* 📧 Email: `lebiraja2007@gmail.com`
-* 👻 Snapchat: `@lebi_raja`
-
----
-
-### 😄 Fun Facts
-
-* 🍃 Vegetarian & solo travel lover
-* 📺 Big anime fan — One Piece, JJK, Bleach, MHA, and more!
-* 🧠 Atheist thinker, creative builder, and someone who wants to **leave a legacy through innovation**
-* 🛠️ Motto: *“Build to express, create to solve.”*
+| Category      | Tools / Technologies |
+| ------------- | -------------------- |
+| **Languages** | Python, C++, Java, HTML/CSS, JS |
+| **AI/ML**     | MediaPipe, PyTorch, LangChain, Scikit-learn |
+| **Frontend**  | Streamlit, Gradio, Tkinter |
+| **Backend**   | Flask, FastAPI |
+| **Automation**| Make.com, Telegram Bots, PyAutoGUI |
+| **DevOps**    | Docker, Kubernetes, GitHub Actions |
+| **Database**  | MySQL, SQLite, JSON/CSV |
 
 ---
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lebiraja&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebiraja&layout=compact&theme=radical" height="180"/>
+</p>
 
+---
+
+## 🤝 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/lebi-raja-c-480b02322/)
+- 🐦 [X (Twitter)](https://x.com/lebiraja)
+- 📸 [Instagram](https://instagram.com/lebiraja)
+- 👻 Snapchat: `@lebi_raja`
+- 📧 Gmail: `lebiraja2007@gmail.com`
+
+---
+
+## 🎯 Fun Facts
+
+- 🧠 Atheist thinker & anime lover (One Piece, MHA, JJK, AOT, Bleach)  
+- 🎢 Loves solo trips, adventure rides, and creative expression through tech  
+- 🛠️ Motto: *“Build to express, create to solve.”*  
+- 🧬 Dream: **To build a legacy with intelligent agents that feel truly human-aware**
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=120&section=footer"/>
+</p>
