@@ -82,7 +82,16 @@ I enjoy creating practical, futuristic solutions where **machine intelligence me
 ![](https://github-contributor-stats.vercel.app/api?username=lebiraja&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
+
 ---
+
+### 🚀 Activity Graph  
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lebiraja&bg_color=000000&color=00FFAA&line=00FF90&point=FFFFFF&area=true&hide_border=true" />
+</p>
+---
+
+
 ## 🤝 Let’s Collaborate!
 
 I'm always open to connect and collaborate on:
