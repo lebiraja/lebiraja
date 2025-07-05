@@ -7,8 +7,10 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lebiraja&style=flat-square&color=blueviolet" alt="Profile views" />
   <a href="https://leetcode.com/u/6hT5EEP40r/"><img src="https://img.shields.io/badge/LeetCode-Lebi_Raja-orange?style=flat-square&logo=leetcode" /></a>
+  <a href="https://www.linkedin.com/in/lebi-raja-c-480b02322/"><img src="https://img.shields.io/badge/LinkedIn-Lebi_Raja-blue?style=flat-square&logo=linkedin" /></a>
   <img src="https://img.shields.io/github/followers/lebiraja?style=flat-square&label=GitHub&logo=github" />
 </p>
+
 
 ---
 
