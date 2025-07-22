@@ -112,15 +112,6 @@ I'm always open to connect and collaborate on:
 
 ---
 
-## 🎯 Fun & Personal
-
-- 💬 **Anime enthusiast** – One Piece, MHA, JJK, AOT, Bleach are life 🌊🔥  
-- 🍃 **Vegetarian & solo traveler** – I enjoy discovering both nature and inner self  
-- 🧠 **Atheist, analytical thinker**, passionate about creating a legacy through innovation  
-- 🛠️ Motto: *“Build to express, create to solve.”*
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
