@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Lebi Raja</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=440&lines=AI+%7C+Data+Science+%7C+LLMs+Explorer;Gesture+Control+%7C+Streamlit+Apps+%7C+Bot+Developer;Building+intelligent+tech+with+human+touch" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=520&lines=AI+%7C+Data+Science+%7C+Local+LLMs+%26+Edge+AI;Gesture+Computing+%7C+Automation+Agents;Building+practical+AI+systems+with+human+context" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,60 +11,75 @@
   <img src="https://img.shields.io/github/followers/lebiraja?style=flat-square&label=GitHub&logo=github" />
 </p>
 
-
 ---
 
 ## 🚀 About Me
 
-I'm **Lebi Raja**, an AI enthusiast who codes with curiosity and builds with intent. Currently pursuing **B.Tech in Artificial Intelligence & Data Science** at **Karunya University**.  
+I’m **Lebi Raja**, a developer focused on building **intelligent systems that run close to the user** — fast, private, and practical.
 
-I enjoy creating practical, futuristic solutions where **machine intelligence meets human experience** — from **gesture-based automation** and **LLM agents** to **real-time data tools** that are both elegant and powerful.
+Currently pursuing **B.Tech in Artificial Intelligence & Data Science** at **Karunya University**, I work across **LLMs, computer vision, automation, and edge AI**, with a strong interest in **local inference, system control, and human–AI interaction**.
 
----
-
-## 👨‍💻 What I'm Working On
-
-- 🖐️ **Gesture Control System** using **MediaPipe + OpenCV + PyAutoGUI**  
-  - Features: Gesture macros, screen zones, posture triggers, app-specific profiles, and voice-assist.
-  
-- 🤖 **AI-Powered Telegram Bots**  
-  - `Data-Boy`: Cleans and validates CSVs using a local LLM, returns results via Telegram.  
-  - `data_bot`: Streamlit + Ollama-powered bot for intelligent dataset analysis and summaries.
-
-- ⚙️ **Automation Agents & LLM Tools**  
-  - Email draft generators, calendar schedulers, and system control via AI agents using **Make.com**, LangChain, and FastAPI.
-
-- 📦 **Containerized AI Tools**  
-  - Learning to scale with **Docker + Kubernetes** for real-world AI deployment.
+I enjoy turning complex ideas into **usable tools**, not just demos.
 
 ---
 
-## 🔍 Competitive Programming
+## 🔧 What I’m Building Right Now
 
+### 🧠 Local LLM & Edge AI Systems
+- Designing a **mobile-first framework** to run **LLMs fully on-device**
+- Focus on privacy, offline capability, and edge computation
+- Exploring **Ollama, quantized models, and mobile inference pipelines**
+
+### 🖐️ Gesture-Based Human–Computer Interaction
+- Built using **MediaPipe + OpenCV + PyAutoGUI**
+- Advanced features:
+  - Gesture macros & sequences  
+  - Screen-zone based actions  
+  - Application-specific gesture profiles  
+  - Posture-aware triggers  
+  - Voice + gesture fusion  
+
+### 🤖 AI Automation & Agent Systems
+- AI agents for:
+  - System-level automation  
+  - Intelligent email drafting  
+  - Scheduling & workflow orchestration  
+- Stack: **LangChain, FastAPI, Make.com**
+
+### 📊 AI-Powered Data Tools
+- **Data-Boy** (Telegram Bot):  
+  Cleans, validates, and summarizes CSV datasets using **local LLMs**
+- **data_bot**:  
+  Streamlit + Ollama-powered assistant for dataset analysis and insights
+
+---
+
+## 🧠 Competitive Programming & Problem Solving
+
+- 🧩 Actively practicing **DSA** for performance-oriented system design
 - 🧠 [LeetCode Profile](https://leetcode.com/u/6hT5EEP40r/)
-- Currently practicing Data Structures & Algorithms to sharpen problem-solving for system-efficient AI development.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:**  
-`Python` | `C++` | `Java` | `HTML` | `CSS` | `JavaScript`
+**Languages**  
+`Python` · `C++` · `Java` · `JavaScript` · `HTML` · `CSS`
 
-**AI & ML:**  
-`PyTorch` | `MediaPipe` | `scikit-learn` | `transformers` | `LangChain` | `OpenCV`
+**AI / ML**  
+`PyTorch` · `Transformers` · `MediaPipe` · `OpenCV` · `scikit-learn` · `LangChain`
 
-**Web & UI:**  
-`Streamlit` | `Gradio` | `Tkinter`
+**Local LLM & Agents**  
+`Ollama` · `FastAPI` · `Telegram Bot API` · `Make.com`
 
-**Backend & APIs:**  
-`Flask` | `FastAPI` | `Telegram Bot API` | `Make.com`
+**UI & Prototyping**  
+`Streamlit` · `Gradio` · `Tkinter`
 
-**DevOps & Tools:**  
-`Docker` | `Kubernetes` | `GitHub Actions` | `Ollama`
+**DevOps & Systems**  
+`Docker` · `Kubernetes` · `GitHub Actions` · `Linux`
 
-**Databases:**  
-`MySQL` | `SQLite` | `CSV/JSON`
+**Data**  
+`MySQL` · `SQLite` · `CSV / JSON`
 
 ---
 
@@ -77,37 +92,34 @@ I enjoy creating practical, futuristic solutions where **machine intelligence me
 
 ---
 
-
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributions
 ![](https://github-contributor-stats.vercel.app/api?username=lebiraja&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-
 
 ---
 
-### 🚀 Activity Graph  
+### 📈 Activity Graph
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lebiraja&bg_color=000000&color=00FFAA&line=00FF90&point=FFFFFF&area=true&hide_border=true" />
 </p>
----
-
-
-## 🤝 Let’s Collaborate!
-
-I'm always open to connect and collaborate on:
-- 🤖 Intelligent agents & AI apps  
-- ⚡ Automation tools with real-world impact  
-- 📊 Data pipelines and dashboards  
-- 📦 Scalable ML systems
 
 ---
 
-## 📫 Connect with Me
+## 🤝 Let’s Collaborate
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/lebi-raja-c-480b02322/)  
-- 🐦 [X (Twitter)](https://x.com/lebiraja)  
-- 📸 [Instagram](https://instagram.com/lebiraja)  
-- 👻 Snapchat: `@lebi_raja`  
+I’m interested in working on:
+- 🧠 Local & Edge AI frameworks  
+- 🤖 Autonomous agents & system-level AI  
+- 🖐️ Human–AI interaction systems  
+- 📦 Scalable, production-grade ML tools  
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/lebi-raja-c-480b02322/)
+- 🐦 [X (Twitter)](https://x.com/lebiraja)
+- 📸 [Instagram](https://instagram.com/lebiraja)
+- 👻 Snapchat: `@lebi_raja`
 - 📧 Email: `lebiraja2007@gmail.com`
 
 ---
