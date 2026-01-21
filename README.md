@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=520&lines=AI+%7C+Data+Science+%7C+Local+LLMs+%26+Edge+AI;Gesture+Computing+%7C+Automation+Agents;Building+practical+AI+systems+with+human+context" alt="Typing SVG" />
-</p>
+</p> 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lebiraja&style=flat-square&color=blueviolet" alt="Profile views" />
