@@ -144,6 +144,14 @@ I don't just experiment — I **design, build, and ship complete AI systems**.
 </p>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lebiraja/lebiraja/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lebiraja/lebiraja/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/lebiraja/lebiraja/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lebiraja&theme=radical" />
 </p>
 
