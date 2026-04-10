@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I’m **Lebi Raja**, an AI systems developer focused on building **real-world intelligent systems**, not just models.
+I'm **Lebi Raja**, an AI systems developer focused on building **real-world intelligent systems**, not just models.
 
 Currently pursuing **B.Tech in Artificial Intelligence & Data Science**, I specialize in:
 
@@ -25,11 +25,11 @@ Currently pursuing **B.Tech in Artificial Intelligence & Data Science**, I speci
 - 🤖 **Autonomous AI agents & workflow automation**
 - 🖐️ **Human–AI interaction (gesture + multimodal systems)**
 
-I don’t just experiment — I **design, build, and ship complete AI systems**.
+I don't just experiment — I **design, build, and ship complete AI systems**.
 
 ---
 
-## 🧠 What I’m Building
+## 🧠 What I'm Building
 
 ### 🧩 StudyMateAI — Autonomous Learning System
 - End-to-end **Auto-RAG pipeline**
@@ -51,6 +51,19 @@ I don’t just experiment — I **design, build, and ship complete AI systems**.
   - Assistive AI
   - Smart surveillance
   - Context-aware agents
+
+---
+
+### 🖐️ Advanced Gesture Control System
+- **MediaPipe + OpenCV + PyAutoGUI**
+- Features:
+  - Gesture macros & sequences  
+  - Application-specific profiles  
+  - Screen-zone interaction  
+  - Posture-aware triggers  
+  - Voice + gesture fusion  
+
+> Goal: Replace traditional UI interaction with **natural input systems**
 
 ---
 
@@ -118,11 +131,27 @@ I don’t just experiment — I **design, build, and ship complete AI systems**.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebiraja&layout=compact&theme=radical" height="170"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lebiraja&theme=radical" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lebiraja&theme=radical&no-frame=true&row=1" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lebiraja&bg_color=000000&color=00FFAA&line=00FF90&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lebiraja&theme=radical" />
+</p>
+
 ---
 
-## 🤝 Let’s Collaborate
+## 🤝 Let's Collaborate
 
-I’m interested in working on:
+I'm interested in working on:
 
 - 🧠 AI systems that run locally (edge-first)
 - 🤖 Autonomous agents & real-world automation
