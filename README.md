@@ -171,7 +171,7 @@ I'm interested in working on:
 
 ## 📫 Connect With Me
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/lebi-raja-c-480b02322/
+- 🔗 LinkedIn: https://www.linkedin.com/in/lebiraja/
 - 🐦 X: https://x.com/lebiraja
 - 📸 Instagram: https://instagram.com/lebiraja
 - 📧 Email: lebiraja2007@gmail.com
