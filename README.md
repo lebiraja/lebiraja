@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, I'm Lebi Raja</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=520&lines=AI+%7C+Data+Science+%7C+Local+LLMs+%26+Edge+AI;Gesture+Computing+%7C+Automation+Agents;Building+practical+AI+systems+with+human+context" alt="Typing SVG" />
-</p> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI+Systems+Builder+%7C+Edge+AI+%7C+Autonomous+Agents;RAG+%7C+Computer+Vision+%7C+Local+LLMs;Building+real-world+AI+products+that+actually+work" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lebiraja&style=flat-square&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=lebiraja&style=flat-square&color=blueviolet" />
   <a href="https://leetcode.com/u/6hT5EEP40r/"><img src="https://img.shields.io/badge/LeetCode-Lebi_Raja-orange?style=flat-square&logo=leetcode" /></a>
   <a href="https://www.linkedin.com/in/lebi-raja-c-480b02322/"><img src="https://img.shields.io/badge/LinkedIn-Lebi_Raja-blue?style=flat-square&logo=linkedin" /></a>
   <img src="https://img.shields.io/github/followers/lebiraja?style=flat-square&label=GitHub&logo=github" />
@@ -15,71 +15,99 @@
 
 ## 🚀 About Me
 
-I’m **Lebi Raja**, a developer focused on building **intelligent systems that run close to the user** — fast, private, and practical.
+I’m **Lebi Raja**, an AI systems developer focused on building **real-world intelligent systems**, not just models.
 
-Currently pursuing **B.Tech in Artificial Intelligence & Data Science** at **Karunya University**, I work across **LLMs, computer vision, automation, and edge AI**, with a strong interest in **local inference, system control, and human–AI interaction**.
+Currently pursuing **B.Tech in Artificial Intelligence & Data Science**, I specialize in:
 
-I enjoy turning complex ideas into **usable tools**, not just demos.
+- 🧠 **Local LLM systems & on-device AI**
+- 🔎 **RAG pipelines & knowledge systems**
+- 👁️ **Computer Vision + Vision-Language Models (VLMs)**
+- 🤖 **Autonomous AI agents & workflow automation**
+- 🖐️ **Human–AI interaction (gesture + multimodal systems)**
 
----
-
-## 🔧 What I’m Building Right Now
-
-### 🧠 Local LLM & Edge AI Systems
-- Designing a **mobile-first framework** to run **LLMs fully on-device**
-- Focus on privacy, offline capability, and edge computation
-- Exploring **Ollama, quantized models, and mobile inference pipelines**
-
-### 🖐️ Gesture-Based Human–Computer Interaction
-- Built using **MediaPipe + OpenCV + PyAutoGUI**
-- Advanced features:
-  - Gesture macros & sequences  
-  - Screen-zone based actions  
-  - Application-specific gesture profiles  
-  - Posture-aware triggers  
-  - Voice + gesture fusion  
-
-### 🤖 AI Automation & Agent Systems
-- AI agents for:
-  - System-level automation  
-  - Intelligent email drafting  
-  - Scheduling & workflow orchestration  
-- Stack: **LangChain, FastAPI, Make.com**
-
-### 📊 AI-Powered Data Tools
-- **Data-Boy** (Telegram Bot):  
-  Cleans, validates, and summarizes CSV datasets using **local LLMs**
-- **data_bot**:  
-  Streamlit + Ollama-powered assistant for dataset analysis and insights
+I don’t just experiment — I **design, build, and ship complete AI systems**.
 
 ---
 
-## 🧠 Competitive Programming & Problem Solving
+## 🧠 What I’m Building
 
-- 🧩 Actively practicing **DSA** for performance-oriented system design
-- 🧠 [LeetCode Profile](https://leetcode.com/u/6hT5EEP40r/)
+### 🧩 StudyMateAI — Autonomous Learning System
+- End-to-end **Auto-RAG pipeline**
+- Integrates with **Google Classroom + Drive APIs**
+- Features:
+  - Automatic document ingestion (PDFs, course files)
+  - Intelligent retrieval using **ChromaDB**
+  - Custom LLM via **Ollama (Gemma-based)**
+  - Assignment understanding + **auto-answering**
+- Focus: **Personalized AI tutor that thinks, not just responds**
+
+---
+
+### 👁️ Real-Time Vision AI System (VLM)
+- Built with **OpenCV + Vision-Language Models**
+- Processes live camera input
+- Generates **context-aware scene understanding**
+- Extensible for:
+  - Assistive AI
+  - Smart surveillance
+  - Context-aware agents
+
+---
+
+### 📊 Data-Boy — AI Data Assistant
+- Telegram + Streamlit-based system
+- Upload dataset → get:
+  - Cleaned CSV  
+  - Data validation  
+  - AI-generated insights  
+- Powered by **local LLMs (Ollama)**
+
+---
+
+### 🧭 CareerWise AI
+- AI career mentor system
+- Analyzes:
+  - Resume  
+  - GitHub profile  
+- Provides:
+  - Skill gap analysis  
+  - Career roadmap  
+  - Personalized recommendations  
+
+---
+
+## 🧠 Technical Focus
+
+- ⚡ **Edge AI & Local Inference**
+- 🧠 **RAG (Retrieval-Augmented Generation) Systems**
+- 🔗 **LLM Orchestration & Agents**
+- 🎯 **Multimodal AI (Vision + Language + Interaction)**
+- 🏗️ **End-to-End AI System Design**
 
 ---
 
 ## 🛠 Tech Stack
 
 **Languages**  
-`Python` · `C++` · `Java` · `JavaScript` · `HTML` · `CSS`
+`Python` · `C++` · `Java` · `JavaScript`
 
 **AI / ML**  
-`PyTorch` · `Transformers` · `MediaPipe` · `OpenCV` · `scikit-learn` · `LangChain`
+`PyTorch` · `Transformers` · `MediaPipe` · `OpenCV` · `scikit-learn`
 
-**Local LLM & Agents**  
-`Ollama` · `FastAPI` · `Telegram Bot API` · `Make.com`
+**LLMs & RAG**  
+`Ollama` · `ChromaDB` · `LangChain` · `Custom Pipelines`
 
-**UI & Prototyping**  
-`Streamlit` · `Gradio` · `Tkinter`
+**Backend & APIs**  
+`FastAPI` · `Telegram Bot API` · `Google APIs`
 
-**DevOps & Systems**  
-`Docker` · `Kubernetes` · `GitHub Actions` · `Linux`
+**UI / Tools**  
+`Streamlit` · `Gradio`
+
+**Systems & DevOps**  
+`Docker` · `Linux` · `GitHub Actions`
 
 **Data**  
-`MySQL` · `SQLite` · `CSV / JSON`
+`MySQL` · `SQLite` · `JSON / CSV`
 
 ---
 
@@ -92,35 +120,24 @@ I enjoy turning complex ideas into **usable tools**, not just demos.
 
 ---
 
-### 🔝 Top Contributions
-![](https://github-contributor-stats.vercel.app/api?username=lebiraja&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-
-### 📈 Activity Graph
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lebiraja&bg_color=000000&color=00FFAA&line=00FF90&point=FFFFFF&area=true&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Let’s Collaborate
 
 I’m interested in working on:
-- 🧠 Local & Edge AI frameworks  
-- 🤖 Autonomous agents & system-level AI  
-- 🖐️ Human–AI interaction systems  
-- 📦 Scalable, production-grade ML tools  
+
+- 🧠 AI systems that run locally (edge-first)
+- 🤖 Autonomous agents & real-world automation
+- 👁️ Vision-based intelligent systems
+- 🖐️ Next-gen human–AI interfaces
+- 📦 Production-ready AI tools
 
 ---
 
 ## 📫 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/lebi-raja-c-480b02322/)
-- 🐦 [X (Twitter)](https://x.com/lebiraja)
-- 📸 [Instagram](https://instagram.com/lebiraja)
-- 👻 Snapchat: `@lebi_raja`
-- 📧 Email: `lebiraja2007@gmail.com`
+- 🔗 LinkedIn: https://www.linkedin.com/in/lebi-raja-c-480b02322/
+- 🐦 X: https://x.com/lebiraja
+- 📸 Instagram: https://instagram.com/lebiraja
+- 📧 Email: lebiraja2007@gmail.com
 
 ---
 
