@@ -16,16 +16,7 @@
 
 I'm **Lebi Raja**, an AI systems developer focused on building **real-world intelligent systems**, not just models.
 
-Currently pursuing **B.Tech in Artificial Intelligence & Data Science**, I specialize in:
-
-- 🧠 **Local LLM systems & on-device AI**
-- 🔎 **RAG pipelines & knowledge systems**
-- 👁️ **Computer Vision + Vision-Language Models (VLMs)**
-- 🤖 **Autonomous AI agents & workflow automation**
-- 🖐️ **Human–AI interaction (gesture + multimodal systems)**
-
-I don't just experiment — I **design, build, and ship complete AI systems**.
-
+Currently pursuing **B.Tech in Artificial Intelligence & Data Science** .
 ---
 
 ## 🧠 Technical Focus
