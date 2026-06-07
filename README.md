@@ -29,31 +29,6 @@ Currently pursuing **B.Tech in Artificial Intelligence & Data Science** .
 
 ---
 
-## 🛠 Tech Stack
-
-**Languages**  
-`Python` · `C++` · `Java` · `JavaScript`
-
-**AI / ML**  
-`PyTorch` · `Transformers` · `MediaPipe` · `OpenCV` · `scikit-learn`
-
-**LLMs & RAG**  
-`Ollama` · `ChromaDB` · `LangChain` · `Custom Pipelines`
-
-**Backend & APIs**  
-`FastAPI` · `Telegram Bot API` · `Google APIs`
-
-**UI / Tools**  
-`Streamlit` · `Gradio`
-
-**Systems & DevOps**  
-`Docker` · `Linux` · `GitHub Actions`
-
-**Data**  
-`MySQL` · `SQLite` · `JSON / CSV`
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -89,13 +64,22 @@ Currently pursuing **B.Tech in Artificial Intelligence & Data Science** .
 
 ## 🤝 Let's Collaborate
 
-I'm interested in working on:
+### 🛠 Featured Open Source Projects
 
-- 🧠 AI systems that run locally (edge-first)
-- 🤖 Autonomous agents & real-world automation
-- 👁️ Vision-based intelligent systems
-- 🖐️ Next-gen human–AI interfaces
-- 📦 Production-ready AI tools
+| Project | Description |
+|----------|-------------|
+| 🚀 **[GitPulse](https://github.com/lebiraja/gitpulse)** | AI-powered Git analytics, repository insights, and developer productivity platform. |
+| 🔌 **[Plugin](https://github.com/lebiraja/plugin)** | Extensible plugin framework for building and integrating intelligent systems. |
+
+<p align="center">
+  <a href="https://github.com/lebiraja/gitpulse">
+    <img src="https://img.shields.io/badge/View-GitPulse-blue?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/lebiraja/plugin">
+    <img src="https://img.shields.io/badge/View-Plugin-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
 
 ---
 
