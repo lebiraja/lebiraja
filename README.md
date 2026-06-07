@@ -1,9 +1,7 @@
-<h1 align="center">Hey 👋, I'm Lebi Raja</h1>
-
+<h1 align="center">Hey, I'm Lebi Raja</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI+Systems+Builder+%7C+Edge+AI+%7C+Autonomous+Agents;RAG+%7C+Computer+Vision+%7C+Local+LLMs;Building+real-world+AI+products+that+actually+work" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lebiraja&style=flat-square&color=blueviolet" />
   <a href="https://www.linkedin.com/in/lebi-raja-c-480b02322/"><img src="https://img.shields.io/badge/LinkedIn-Lebi_Raja-blue?style=flat-square&logo=linkedin" /></a>
@@ -12,42 +10,38 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm **Lebi Raja**, an AI systems developer focused on building **real-world intelligent systems**, not just models.
-
-Currently pursuing **B.Tech in Artificial Intelligence & Data Science** .
----
-
-## 🧠 Technical Focus
-
-- ⚡ **Edge AI & Local Inference**
-- 🧠 **RAG (Retrieval-Augmented Generation) Systems**
-- 🔗 **LLM Orchestration & Agents**
-- 🎯 **Multimodal AI (Vision + Language + Interaction)**
-- 🏗️ **End-to-End AI System Design**
+Currently pursuing **B.Tech in Artificial Intelligence & Data Science**.
 
 ---
 
-## 📊 GitHub Stats
+## Technical Focus
+
+- **Edge AI & Local Inference**
+- **RAG (Retrieval-Augmented Generation) Systems**
+- **LLM Orchestration & Agents**
+- **Multimodal AI (Vision + Language + Interaction)**
+- **End-to-End AI System Design**
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lebiraja&show_icons=true&theme=radical" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebiraja&layout=compact&theme=radical" height="170"/>
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lebiraja&theme=radical" height="170"/>
 </p>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lebiraja&theme=radical&no-frame=true&row=1" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lebiraja&bg_color=000000&color=00FFAA&line=00FF90&point=FFFFFF&area=true&hide_border=true" />
 </p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lebiraja/lebiraja/output/github-contribution-grid-snake-dark.svg" />
@@ -55,21 +49,20 @@ Currently pursuing **B.Tech in Artificial Intelligence & Data Science** .
     <img alt="Snake animation" src="https://raw.githubusercontent.com/lebiraja/lebiraja/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lebiraja&theme=radical" />
 </p>
 
 ---
 
-## 🤝 Let's Collaborate
+## Let's Collaborate
 
-### 🛠 Featured Open Source Projects
+### Featured Open Source Projects
 
 | Project | Description |
 |----------|-------------|
-| 🚀 **[GitPulse](https://github.com/lebiraja/gitpulse)** | AI-powered Git analytics, repository insights, and developer productivity platform. |
-| 🔌 **[Plugin](https://github.com/lebiraja/plugin)** | Extensible plugin framework for building and integrating intelligent systems. |
+| **[GitPulse](https://github.com/lebiraja/gitpulse)** | AI-powered Git analytics, repository insights, and developer productivity platform. |
+| **[Plugin](https://github.com/lebiraja/plugin)** | Extensible plugin framework for building and integrating intelligent systems. |
 
 <p align="center">
   <a href="https://github.com/lebiraja/gitpulse">
@@ -80,15 +73,14 @@ Currently pursuing **B.Tech in Artificial Intelligence & Data Science** .
   </a>
 </p>
 
-
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/lebiraja/
-- 🐦 X: https://x.com/lebiraja
-- 📸 Instagram: https://instagram.com/lebiraja
-- 📧 Email: lebiraja2007@gmail.com
+- LinkedIn: https://www.linkedin.com/in/lebiraja/
+- X: https://x.com/lebiraja
+- Instagram: https://instagram.com/lebiraja
+- Email: lebiraja2007@gmail.com
 
 ---
 
