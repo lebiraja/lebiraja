@@ -24,12 +24,6 @@
   intelligent products that can reason, automate, and solve real-world problems.
 </p>
 
-<p align="center">
-  🎓 B.Tech in AI & Data Science <br>
-  🌱 Open Source Enthusiast <br>
-  ⚡ Currently building <b>JARVIS</b>
-</p>
-
 ## GitHub Stats
 
 <p align="center">
