@@ -10,20 +10,34 @@
 
 ---
 
-## About Me
+# 👨‍💻 About Me
 
-I'm **Lebi Raja**, an AI systems developer focused on building **real-world intelligent systems**, not just models.
-Currently pursuing **B.Tech in Artificial Intelligence & Data Science**.
+<p align="center">
+  <b>AI Systems Developer • Builder • Open Source Enthusiast</b>
+</p>
+
+<p align="center">
+  Building intelligent systems that solve real-world problems through <br>
+  LLMs, RAG, Computer Vision, and Local AI.
+</p>
+
+<p align="center">
+  🎓 <b>B.Tech in Artificial Intelligence & Data Science</b><br>
+  🚀 Passionate about building products that people actually use
+</p>
 
 ---
 
-## Technical Focus
+# ⚡ Technical Focus
 
-- **Edge AI & Local Inference**
-- **RAG (Retrieval-Augmented Generation) Systems**
-- **LLM Orchestration & Agents**
-- **Multimodal AI (Vision + Language + Interaction)**
-- **End-to-End AI System Design**
+<p align="center">
+  🧠 <b>Edge AI & Local Inference</b><br>
+  📚 <b>Retrieval-Augmented Generation (RAG)</b><br>
+  🤖 <b>LLM Orchestration & AI Agents</b><br>
+  👁️ <b>Multimodal AI (Vision + Language)</b><br>
+  🏗️ <b>End-to-End AI System Design</b><br>
+  ⚙️ <b>Automation & Developer Tools</b>
+</p>
 
 ---
 
@@ -34,9 +48,6 @@ Currently pursuing **B.Tech in Artificial Intelligence & Data Science**.
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lebiraja&theme=radical" height="170"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lebiraja&theme=radical&no-frame=true&row=1" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lebiraja&bg_color=000000&color=00FFAA&line=00FF90&point=FFFFFF&area=true&hide_border=true" />
