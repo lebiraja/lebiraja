@@ -31,7 +31,6 @@ Currently pursuing **B.Tech in Artificial Intelligence & Data Science**.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lebiraja&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lebiraja&layout=compact&theme=radical" height="170"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=lebiraja&theme=radical" height="170"/>
@@ -48,9 +47,6 @@ Currently pursuing **B.Tech in Artificial Intelligence & Data Science**.
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lebiraja/lebiraja/output/github-contribution-grid-snake.svg" />
     <img alt="Snake animation" src="https://raw.githubusercontent.com/lebiraja/lebiraja/output/github-contribution-grid-snake.svg" />
   </picture>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lebiraja&theme=radical" />
 </p>
 
 ---
@@ -75,12 +71,23 @@ Currently pursuing **B.Tech in Artificial Intelligence & Data Science**.
 
 ---
 
-## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/lebiraja/
-- X: https://x.com/lebiraja
-- Instagram: https://instagram.com/lebiraja
-- Email: lebiraja2007@gmail.com
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lebiraja/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Lebi%20Raja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/lebiraja" target="_blank">
+    <img src="https://img.shields.io/badge/X-@lebiraja-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://instagram.com/lebiraja" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@lebiraja-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:lebiraja2007@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-lebiraja2007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
