@@ -8,9 +8,27 @@
   <img src="https://img.shields.io/github/followers/lebiraja?style=flat-square&label=GitHub&logo=github" />
 </p>
 
---- ## About Me I'm **Lebi Raja**, an AI systems developer focused on building **real-world intelligent systems**, not just models. Currently pursuing **B.Tech in Artificial Intelligence & Data Science**. 
---- ## Technical Focus - **Edge AI & Local Inference** - **RAG (Retrieval-Augmented Generation) Systems** - **LLM Orchestration & Agents** - **Multimodal AI (Vision + Language + Interaction)** - **End-to-End AI System Design** ---
 
+<h2 align="center">🚀 Building the Future with AI</h2>
+
+<p align="center">
+  🤖 AI Systems &nbsp;|&nbsp;
+  🧠 Edge AI &nbsp;|&nbsp;
+  📚 RAG &nbsp;|&nbsp;
+  👁️ Computer Vision &nbsp;|&nbsp;
+  💬 Local LLMs
+</p>
+
+<p align="center">
+  I'm <b>Lebi Raja</b>, an AI Systems Builder passionate about designing
+  intelligent products that can reason, automate, and solve real-world problems.
+</p>
+
+<p align="center">
+  🎓 B.Tech in AI & Data Science <br>
+  🌱 Open Source Enthusiast <br>
+  ⚡ Currently building <b>JARVIS</b>
+</p>
 
 ## GitHub Stats
 
